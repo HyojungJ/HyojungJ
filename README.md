@@ -6,7 +6,7 @@
 
 ## 🚀 Key Projects
 
-### 1. 🏪 서울시 자치구별 매장 폐업률 예측
+### 1. 🏪 머신러닝·딥러닝 기반 서울시 매장 폐업률 예측 및 입지/리스크 관리 서비스
 * **설명:** CatBoost & Optuna 기반 폐업 위험 이상 탐지 및 Feature Importance 원인 진단
 * **핵심 성과:** AUC 0.9500 / F1-Score 0.8784 달성
 * 🔗 [Project Repository 바로가기](https://github.com/HyojungJ/Seoul-Store-Closure-Prediction)
