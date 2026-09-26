@@ -11,14 +11,10 @@
 * **핵심 성과:** AUC 0.9500 / F1-Score 0.8784 달성
 * 🔗 [Project Repository 바로가기](https://github.com/HyojungJ/Seoul-Store-Closure-Prediction)
 
-### 2. 🌲 시계열/공간 데이터 기반 도시 수목 생존 예측 및 고위험군 분류 알고리즘 구축
-* **설명:** Random Forest 및 XGBoost Survival(Cox) 기반 잔여 수명 및 위험도 추정
-* 🔗 [Project Repository 바로가기](https://github.com/HyojungJ/Urban-Tree-Survival-Risk-Analysis)
-
-### 3. 🖥️ 컴퓨터 비전 특허 검색·질의응답 RAG 챗봇 서비스
+### 2. 🖥️ 컴퓨터 비전 특허 검색·질의응답 RAG 챗봇 서비스
 * **설명:** RAG 기반 전문 기술 문서/특허 대화형 검색 어시스턴트
 * 🔗 [Project Repository 바로가기](https://github.com/HyojungJ/Vision-Patent-Search-LLM-Chatbot)
 
-### 4. 🎬 AI 기반 밈 숏폼 광고 영상 자동 생성 플랫폼
+### 3. 🎬 AI 기반 밈 숏폼 광고 영상 자동 생성 플랫폼
 * **설명:** Multi-modal AI 파이프라인 연동 및 자동 생성 플랫폼 구축
 * 🔗 [Project Repository 바로가기](https://github.com/HyojungJ/AI-Meme-Shorts-Ad-Generator)
